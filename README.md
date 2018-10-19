@@ -12,7 +12,7 @@ You can see the [Video](https://raw.githubusercontent.com/berkaybarlas/friendYol
 
 | Feed Page | Other Pages |
 |:---:|:---:|
-| [![feedPage](https://raw.githubusercontent.com/berkaybarlas/friendYol/images/feedPage.gif)]  | [![OtherPages](https://raw.githubusercontent.com/berkaybarlas/friendYol/raw/master/images/otherPages.gif)] |
+| [![feedPage](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/feedPage.gif)]  | [![OtherPages](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/otherPages.gif)] |
 
 ## Credit
 This project was made during Trendyol Hackathon'18 with the help of @peacecwz and Mehmet Mecek.
