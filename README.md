@@ -3,6 +3,10 @@
 **FriendYol** is a social network application that users can share their favorite products in trendyol.com .
 
 This application has also following features:
+* Users can login with their Trendyol account.
+* Users can follow other people or influencers(Celebrities).
+* Users can add the product to thier Trenyol basket and buy it.
+* Users can see the product page.
 
 ## Preview
 
