@@ -1,4 +1,8 @@
-# FriendYol
+<h1 align="center">
+    <img alt="FriendYol" src="https://raw.githubusercontent.com/berkaybarlas/friendYol/images/appIcon.png" width="200px" height="200px" />
+  <br />
+  FriendYol
+</h1>
 
 **FriendYol** is a social network application that users can share their favorite products in trendyol.com .
 
@@ -16,7 +20,10 @@ You can see the [Video](https://raw.githubusercontent.com/berkaybarlas/friendYol
 
 | Feed Page | Other Pages |
 |:---:|:---:|
-| [![feedPage](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/feedPage.gif)]  | [![OtherPages](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/otherPages.gif)] |
+| ![feedPage](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/feedPage.gif) | ![OtherPages](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/otherPages.gif) |
+
+## First Design
+| ![design](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/initialDesign.png) |
 
 ## Credit
 This project was made during Trendyol Hackathon'18 with the help of @peacecwz and Mehmet Mecek.
