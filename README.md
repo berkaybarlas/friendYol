@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="FriendYol" src="https://raw.githubusercontent.com/berkaybarlas/friendYol/images/appIcon.png" width="200px" height="200px" />
+    <img alt="FriendYol" src="https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/appIcon.png" width="200px" height="200px" />
   <br />
   FriendYol
 </h1>
@@ -16,14 +16,14 @@ This application has also following features:
 
 #### Friendyol Ios Application
 
-You can see the [Video](https://raw.githubusercontent.com/berkaybarlas/friendYol/images/video.mp4)
+You can see the [Video](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/video.mp4)
 
 | Feed Page | Other Pages |
 |:---:|:---:|
 | ![feedPage](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/feedPage.gif) | ![OtherPages](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/otherPages.gif) |
 
 ## First Design
-| ![design](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/initialDesign.png) |
+![design](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/initialDesign.png)
 
 ## Credit
 This project was made during Trendyol Hackathon'18 with the help of @peacecwz and Mehmet Mecek.
