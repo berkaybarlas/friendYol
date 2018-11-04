@@ -16,7 +16,7 @@ This application has also following features:
 
 #### Friendyol Ios Application
 
-You can see the [Video](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/video.mp4)
+You can see the [Video](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/video.MP4)
 
 | Feed Page | Other Pages |
 |:---:|:---:|
