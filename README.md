@@ -18,9 +18,9 @@ This application has also following features:
 
 You can see the [Video](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/video.mp4)
 
-| Feed Page | Other Pages |
-|:---:|:---:|
-| ![feedPage](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/feedPage.gif) | ![OtherPages](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/otherPages.gif) |
+| Feed Page | 
+|:---:|
+| ![feedPage](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/feedPage.gif) | 
 
 ## First Design
 ![design](https://raw.githubusercontent.com/berkaybarlas/friendYol/master/images/initialDesign.png)
