@@ -11,7 +11,7 @@
     "axios": "^0.18.0",
     "native-base": "^2.8.1",
     "react": "16.5.0",
-    "react-native": "0.57.2",
+    "react-native": "^0.57.8",
     "react-native-search-bar": "^3.4.2",
     "react-navigation": "^2.17.0",
     "react-redux": "^5.0.7",
